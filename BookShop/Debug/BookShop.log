@@ -1,0 +1,20 @@
+﻿  Adding_New_Book.cpp
+  Buying.cpp
+  Calculate.cpp
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Calculate.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Calculate.cpp(23,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Store.cpp
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.h(19,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(6,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(7,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(8,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(9,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(10,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(11,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(12,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(13,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(14,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(15,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Store.cpp(16,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  BookShop.vcxproj -> C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Debug\BookShop.exe
