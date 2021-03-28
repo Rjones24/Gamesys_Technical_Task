@@ -5,7 +5,6 @@
 #include <string>
 
 #include "Buying.h"
-#include "Adding_New_Book.h"
     
 
     struct Books {
@@ -19,6 +18,5 @@
     char x = 156;
 
     Buying buy;
-    Adding_New_Book add;
     Calculate cal;
     float total;

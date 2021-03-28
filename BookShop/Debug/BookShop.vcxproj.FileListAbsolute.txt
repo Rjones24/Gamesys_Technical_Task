@@ -1,2 +1,4 @@
 C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Debug\BookShop.exe
 C:\Users\Ryan\Documents\c++\Gamesys\BookShop\Debug\BookShop.pdb
+C:\Users\Ryan\Documents\GitHub\Gamesys_Technical_Task\BookShop\Debug\BookShop.exe
+C:\Users\Ryan\Documents\GitHub\Gamesys_Technical_Task\BookShop\Debug\BookShop.pdb

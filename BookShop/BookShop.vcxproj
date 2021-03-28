@@ -19,13 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Adding_New_Book.h" />
     <ClInclude Include="Buying.h" />
     <ClInclude Include="Calculate.h" />
     <ClInclude Include="Store.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Adding_New_Book.cpp" />
     <ClCompile Include="Buying.cpp" />
     <ClCompile Include="Calculate.cpp" />
     <ClCompile Include="Store.cpp" />

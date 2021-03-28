@@ -45,7 +45,7 @@ int main()
     } while (true);
 
     //Checks for other discounts
-    puts("Do you have another discount?");
+    puts("Do you have any discount codes?");
     cin >> anwser;
     if (anwser == 'y')
     {

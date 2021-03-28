@@ -24,9 +24,6 @@
     <ClInclude Include="Buying.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Adding_New_Book.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Store.cpp">
@@ -36,9 +33,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Buying.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Adding_New_Book.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
