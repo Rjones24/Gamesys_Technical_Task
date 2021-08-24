@@ -1,6 +1,6 @@
 # Gamesys_Technical_Task
  
-git code link https://github.com/Rjones24/Gamesys_Technical_Task
+git code link https://github.com/Rjones24/Technical_Task
 
 This task was undertaken in C++ using visuaL STUDIO 2019.
 ////////////////////////////////////////////////////////
